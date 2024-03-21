@@ -8,7 +8,7 @@ Nopeus on 60 km/h. Metodikutsu auto.kulje(1.5) kasvattaa kuljetun matkan lukemaa
 # ohjelmaa muokattu edellisestä sen verran, että myös nopeuden lisäykset voidaan laittaa
 # inputtina käyttäjältä
 
-# Hups, se vähän eskaloitu.
+# Hups, se vähän eskaloitu. wups
 
 
 class Auto:
