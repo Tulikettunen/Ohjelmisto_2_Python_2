@@ -11,4 +11,5 @@ hissin ja käsket sen siirtymään haluamaasi kerrokseen ja sen jälkeen takaisi
 
 class Hissi():
     def __init__(self):
-        
+
+
