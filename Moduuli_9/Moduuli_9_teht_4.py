@@ -43,7 +43,7 @@ class Auto:
 auto_lista = []
 
 for i in range(1, 11):
-    auto_lista.append( Auto((f"ABC-{i}"), random.randint(100, 200)))
+    auto_lista.append(Auto((f"ABC-{i}"), random.randint(100, 200)))
 
 i = True
 

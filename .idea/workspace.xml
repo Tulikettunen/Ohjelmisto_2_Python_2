@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bd0e44e-b8ca-4303-8a2b-35d958152d80" name="Changes" comment="Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon. Push 2, ylitti vielä vähän enemmän tehtävänannon, erityisesti teht 3 osalta.">
-      <change afterPath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10/Moduuli_10_teht_2.py" afterDir="false" />
+    <list default="true" id="3bd0e44e-b8ca-4303-8a2b-35d958152d80" name="Changes" comment="Kotitehtävät, viikko 2, moduulit 10 ja 11">
+      <change afterPath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/JavaScript_1/JavaScript_.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Matikka_2/Matikka_2_teht_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10/Moduuli_10_teht_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10/Moduuli_10_teht_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10/Moduuli_10_teht_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10/Moduuli_10_teht_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9/Moduuli_9_teht_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9/Moduuli_9_teht_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -23,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2e0Ii4AoD0JH94o1ulGDbAjAGal" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,6 +42,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Matikka_2_teht_2.executor": "Run",
+    "Python.Moduuli_10_teht_1.executor": "Run",
     "Python.Moduuli_1_teht_1.executor": "Run",
     "Python.Moduuli_9_teht_2.executor": "Run",
     "Python.Moduuli_9_teht_3.executor": "Run",
@@ -57,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nikit\PycharmProjects\Ohjelmisto-2.-Python-2\JavaScript_1" />
       <recent name="C:\Users\nikit\PycharmProjects\Ohjelmisto-2.-Python-2" />
       <recent name="C:\Users\nikit\PycharmProjects\Ohjelmisto-2.-Python-2\Moduuli_9\Tuntitehtävät" />
       <recent name="C:\Users\nikit\PycharmProjects\Ohjelmisto-2.-Python-2\Moduuli_1" />
@@ -77,7 +86,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711035192888</updated>
-      <workItem from="1711035210829" duration="36852000" />
+      <workItem from="1711035210829" duration="38059000" />
+      <workItem from="1712644628929" duration="14056000" />
     </task>
     <task id="LOCAL-00001" summary="Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon.">
       <option name="closed" value="true" />
@@ -127,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711985466579</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Kotitehtävät, viikko 2, moduulit 10 ja 11">
+      <option name="closed" value="true" />
+      <created>1711999699963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711999699963</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,14 +155,17 @@
     <MESSAGE value="Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon." />
     <MESSAGE value="Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon. &#10;Push 2, ylitti vielä vähän enemmän tehtävänannon, erityisesti teht 3 osalta." />
     <MESSAGE value="Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon. Push 2, ylitti vielä vähän enemmän tehtävänannon, erityisesti teht 3 osalta." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon. Push 2, ylitti vielä vähän enemmän tehtävänannon, erityisesti teht 3 osalta." />
+    <MESSAGE value="Kotitehtävät, viikko 2, moduulit 10 ja 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotitehtävät, viikko 2, moduulit 10 ja 11" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Matikka_2_teht_2.coverage" NAME="Matikka_2_teht_2 Coverage Results" MODIFIED="1712786511752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Matikka_2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_9_teht_4.coverage" NAME="Moduuli_9_teht_4 Coverage Results" MODIFIED="1711046856828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus_tunti_3_assosiaatio.coverage" NAME="Tuntiharjoitus_tunti_3_assosiaatio Coverage Results" MODIFIED="1711110435413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9/Tuntitehtävät" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_9_teht_2.coverage" NAME="Moduuli_9_teht_2 Coverage Results" MODIFIED="1711046267192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus_tunti_2.coverage" NAME="Tuntiharjoitus_tunti_2 Coverage Results" MODIFIED="1711106365378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9/Tuntitehtävät" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus_tunti_3_periytyminen.coverage" NAME="Tuntiharjoitus_tunti_3_periytyminen Coverage Results" MODIFIED="1711112137793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Tuntitehtävät" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_10_teht_1.coverage" NAME="Moduuli_10_teht_1 Coverage Results" MODIFIED="1712679648904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_1_teht_1.coverage" NAME="Moduuli_1_teht_1 Coverage Results" MODIFIED="1711039883656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_1" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus__tunti_4_rajapinnat.coverage" NAME="Tuntiharjoitus_ tunti_4_rajapinnat Coverage Results" MODIFIED="1711442964134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Tuntitehtävät" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_9_teht_3.coverage" NAME="Moduuli_9_teht_3 Coverage Results" MODIFIED="1711103565907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9" />
