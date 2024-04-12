@@ -16,7 +16,9 @@ class Building():
             self.hissi_lista.append(Hissi(first_floor, last_floor))
 
     def drive_elev(self, milla_hissilla, mihin_kerrokseen):
-        if mihin_kerrokseen == self.hissi_lista[milla_hissilla].current_floor:
+        if milla_hissilla + 1 > self.no_of_elevs or milla_hissilla <= -1:
+            print(f"The elevator you chose doesn't exist, please choose another elevator. No. of elevators: {self.no_of_elevs}")
+        elif mihin_kerrokseen == self.hissi_lista[milla_hissilla].current_floor:
             print(f"The floor you are is {mihin_kerrokseen}.")
         elif mihin_kerrokseen > self.hissi_lista[milla_hissilla].current_floor and mihin_kerrokseen < self.hissi_lista[
             milla_hissilla].last_floor:
@@ -52,9 +54,24 @@ class Hissi():
 
 talo = Building(1, 9, 3)
 
-milla_hissilla = int(input("Which elevator do you want to use? \n>"))-1
-mihin_kerrokseen = int(input("In to which floor do you want to go? \n>"))
+e = True
 
+while e:
+    try:
+        command = input("If you want to drive an elevator, press enter \nIf you want to quit press 'q', "
+                        "\nIn case of emergency, press '!'.\n>")
+        if command != "!":
+            milla_hissilla = int(input("Which elevator do you want to use? \n>")) - 1
+            mihin_kerrokseen = int(input("In to which floor do you want to go? \n>"))
+            talo.drive_elev(milla_hissilla, mihin_kerrokseen)
+        elif command.upper == "Q":
+            print("'Driving elevator' program have been  stopped.")
+            e = False
+        else:
+            print("Emergency button activated.")
+            e = False
+    except ValueError:
+        print("You can only choose numbers.\n")
 
 
 
