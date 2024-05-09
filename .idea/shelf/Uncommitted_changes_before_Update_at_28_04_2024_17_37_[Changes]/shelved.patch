@@ -1,0 +1,144 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3bd0e44e-b8ca-4303-8a2b-35d958152d80\" name=\"Changes\" comment=\"Java and html files\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n        <option value=\"Python Script\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2e0Ii4AoD0JH94o1ulGDbAjAGal\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"Python.Matikka_2_teht_2.executor\": \"Run\",\r\n    \"Python.Moduuli_10_teht_1.executor\": \"Run\",\r\n    \"Python.Moduuli_10_teht_2.executor\": \"Run\",\r\n    \"Python.Moduuli_10_teht_3.executor\": \"Run\",\r\n    \"Python.Moduuli_1_teht_1.executor\": \"Run\",\r\n    \"Python.Moduuli_9_teht_2.executor\": \"Run\",\r\n    \"Python.Moduuli_9_teht_3.executor\": \"Run\",\r\n    \"Python.Moduuli_9_teht_4.executor\": \"Run\",\r\n    \"Python.Tuntiharjoitus_ tunti_4_rajapinnat.executor\": \"Run\",\r\n    \"Python.Tuntiharjoitus_tunti_2.executor\": \"Run\",\r\n    \"Python.Tuntiharjoitus_tunti_3_assosiaatio.executor\": \"Run\",\r\n    \"Python.Tuntiharjoitus_tunti_3_periytyminen.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\nikit\\PycharmProjects\\Ohjelmisto-2.-Python-2\\JavaScript_1\" />\r\n      <recent name=\"C:\\Users\\nikit\\PycharmProjects\\Ohjelmisto-2.-Python-2\" />\r\n      <recent name=\"C:\\Users\\nikit\\PycharmProjects\\Ohjelmisto-2.-Python-2\\Moduuli_9\\Tuntitehtävät\" />\r\n      <recent name=\"C:\\Users\\nikit\\PycharmProjects\\Ohjelmisto-2.-Python-2\\Moduuli_1\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3bd0e44e-b8ca-4303-8a2b-35d958152d80\" name=\"Changes\" comment=\"\" />\r\n      <created>1711035192888</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1711035192888</updated>\r\n      <workItem from=\"1711035210829\" duration=\"38059000\" />\r\n      <workItem from=\"1712644628929\" duration=\"29738000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711046991767</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711046991767</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711047043714</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711047043714</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711056942814</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711056942815</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon. Push 2, ylitti vielä vähän enemmän tehtävänannon, erityisesti teht 3 osalta.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711057059063</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711057059063</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon. Push 2, ylitti vielä vähän enemmän tehtävänannon, erityisesti teht 3 osalta.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711608448333</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711608448333</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon. Push 2, ylitti vielä vähän enemmän tehtävänannon, erityisesti teht 3 osalta.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711985466579</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711985466579</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Kotitehtävät, viikko 2, moduulit 10 ja 11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1711999699963</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1711999699963</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Matikan kotitehtävät, viikko 3, python moduuli 10 teht 1 ja 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1712787005740</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712787005740</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Moduuli 10 jatkoa ym.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1712937023877</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1712937023877</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Java and html files\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1713180376735</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1713180376736</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon.\" />\r\n    <MESSAGE value=\"Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon. &#10;Push 2, ylitti vielä vähän enemmän tehtävänannon, erityisesti teht 3 osalta.\" />\r\n    <MESSAGE value=\"Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon. Push 2, ylitti vielä vähän enemmän tehtävänannon, erityisesti teht 3 osalta.\" />\r\n    <MESSAGE value=\"Kotitehtävät, viikko 2, moduulit 10 ja 11\" />\r\n    <MESSAGE value=\"Matikan kotitehtävät, viikko 3, python moduuli 10 teht 1 ja 2\" />\r\n    <MESSAGE value=\"Moduuli 10 jatkoa ym.\" />\r\n    <MESSAGE value=\"Java and html files\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Java and html files\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Matikka_2_teht_2.coverage\" NAME=\"Matikka_2_teht_2 Coverage Results\" MODIFIED=\"1712786511752\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Matikka_2\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Moduuli_9_teht_4.coverage\" NAME=\"Moduuli_9_teht_4 Coverage Results\" MODIFIED=\"1711046856828\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus_tunti_3_assosiaatio.coverage\" NAME=\"Tuntiharjoitus_tunti_3_assosiaatio Coverage Results\" MODIFIED=\"1711110435413\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9/Tuntitehtävät\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Moduuli_10_teht_3.coverage\" NAME=\"Moduuli_10_teht_3 Coverage Results\" MODIFIED=\"1712934763652\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Moduuli_9_teht_2.coverage\" NAME=\"Moduuli_9_teht_2 Coverage Results\" MODIFIED=\"1711046267192\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus_tunti_2.coverage\" NAME=\"Tuntiharjoitus_tunti_2 Coverage Results\" MODIFIED=\"1711106365378\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9/Tuntitehtävät\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus_tunti_3_periytyminen.coverage\" NAME=\"Tuntiharjoitus_tunti_3_periytyminen Coverage Results\" MODIFIED=\"1711112137793\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Tuntitehtävät\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Moduuli_10_teht_1.coverage\" NAME=\"Moduuli_10_teht_1 Coverage Results\" MODIFIED=\"1712679648904\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Moduuli_1_teht_1.coverage\" NAME=\"Moduuli_1_teht_1 Coverage Results\" MODIFIED=\"1711039883656\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_1\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus__tunti_4_rajapinnat.coverage\" NAME=\"Tuntiharjoitus_ tunti_4_rajapinnat Coverage Results\" MODIFIED=\"1711442964134\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Tuntitehtävät\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Moduuli_9_teht_3.coverage\" NAME=\"Moduuli_9_teht_3 Coverage Results\" MODIFIED=\"1711103565907\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9\" />\r\n    <SUITE FILE_PATH=\"coverage/Ohjelmisto_2__Python_2_$Moduuli_10_teht_2.coverage\" NAME=\"Moduuli_10_teht_2 Coverage Results\" MODIFIED=\"1712931120870\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3bd0e44e-b8ca-4303-8a2b-35d958152d80" name="Changes" comment="Java and html files" />
++    <list default="true" id="3bd0e44e-b8ca-4303-8a2b-35d958152d80" name="Changes" comment="Java and html files">
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -20,8 +23,20 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2" />
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;Tulikettunen&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/Tulikettunen/Ohjelmisto_2_Python_2.git&quot;,
++    &quot;accountId&quot;: &quot;3f0c3f41-63f5-46cc-938b-79a642e7acfa&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 1
+ }</component>
+@@ -33,32 +48,35 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "Python.Matikka_2_teht_2.executor": "Run",
+-    "Python.Moduuli_10_teht_1.executor": "Run",
+-    "Python.Moduuli_10_teht_2.executor": "Run",
+-    "Python.Moduuli_10_teht_3.executor": "Run",
+-    "Python.Moduuli_1_teht_1.executor": "Run",
+-    "Python.Moduuli_9_teht_2.executor": "Run",
+-    "Python.Moduuli_9_teht_3.executor": "Run",
+-    "Python.Moduuli_9_teht_4.executor": "Run",
+-    "Python.Tuntiharjoitus_ tunti_4_rajapinnat.executor": "Run",
+-    "Python.Tuntiharjoitus_tunti_2.executor": "Run",
+-    "Python.Tuntiharjoitus_tunti_3_assosiaatio.executor": "Run",
+-    "Python.Tuntiharjoitus_tunti_3_periytyminen.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;Python.Matikka_2_teht_2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Moduuli_10_teht_1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Moduuli_10_teht_2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Moduuli_10_teht_3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Moduuli_1_teht_1.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Moduuli_9_teht_2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Moduuli_9_teht_3.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Moduuli_9_teht_4.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Tuntiharjoitus_ tunti_4_rajapinnat.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Tuntiharjoitus_tunti_2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Tuntiharjoitus_tunti_3_assosiaatio.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Tuntiharjoitus_tunti_3_periytyminen.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/tuuli/PycharmProjects&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\nikit\PycharmProjects\Ohjelmisto-2.-Python-2\JavaScript_1" />
+@@ -70,7 +88,8 @@
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
++        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
++        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -84,6 +103,9 @@
+       <updated>1711035192888</updated>
+       <workItem from="1711035210829" duration="38059000" />
+       <workItem from="1712644628929" duration="29738000" />
++      <workItem from="1714310235804" duration="614000" />
++      <workItem from="1714314328116" duration="205000" />
++      <workItem from="1714314605383" duration="369000" />
+     </task>
+     <task id="LOCAL-00001" summary="Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon.">
+       <option name="closed" value="true" />
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$/../Ohjelmisto-2.-Python-2\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	
++++ b/.idea/vcs.xml	
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file

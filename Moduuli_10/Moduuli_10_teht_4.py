@@ -37,6 +37,7 @@ class Kilpailu:
         else:
             self.speed_now += speed_change
 
+
     def kulje(self):
         travel_time = 1
         self.distance += self.speed_now * travel_time
