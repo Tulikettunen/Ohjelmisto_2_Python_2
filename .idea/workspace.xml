@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bd0e44e-b8ca-4303-8a2b-35d958152d80" name="Changes" comment="Tallennus">
+    <list default="true" id="3bd0e44e-b8ca-4303-8a2b-35d958152d80" name="Changes" comment="10 Moduuli_10_teht_4.py tappelee vastaan huolella, wtf is going on with it.. ???">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli_10/Moduuli_10_teht_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli_10/Moduuli_10_teht_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli_11/Moduuli_11_teht_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli_11/Moduuli_11_teht_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli_11/Moduuli_11_teht_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli_11/Moduuli_11_teht_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,35 +49,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.Matikka_2_teht_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli_10_teht_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli_10_teht_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli_10_teht_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli_10_teht_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli_1_teht_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli_9_teht_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli_9_teht_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Moduuli_9_teht_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuntiharjoitus_ tunti_4_rajapinnat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuntiharjoitus_tunti_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuntiharjoitus_tunti_3_assosiaatio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuntiharjoitus_tunti_3_periytyminen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sandbox_file.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tuuli/PycharmProjects/Metropolia-2024Q2-Ohjelmisto2_Projekti&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Matikka_2_teht_2.executor": "Run",
+    "Python.Moduuli_10_teht_1.executor": "Run",
+    "Python.Moduuli_10_teht_2.executor": "Run",
+    "Python.Moduuli_10_teht_3.executor": "Run",
+    "Python.Moduuli_10_teht_4.executor": "Run",
+    "Python.Moduuli_11_teht_1.executor": "Run",
+    "Python.Moduuli_1_teht_1.executor": "Run",
+    "Python.Moduuli_9_teht_2.executor": "Run",
+    "Python.Moduuli_9_teht_3.executor": "Run",
+    "Python.Moduuli_9_teht_4.executor": "Run",
+    "Python.Tuntiharjoitus_ tunti_4_rajapinnat.executor": "Run",
+    "Python.Tuntiharjoitus_tunti_2.executor": "Run",
+    "Python.Tuntiharjoitus_tunti_3_assosiaatio.executor": "Run",
+    "Python.Tuntiharjoitus_tunti_3_periytyminen.executor": "Run",
+    "Python.sandbox_file.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/tuuli/PycharmProjects/Metropolia-2024Q2-Ohjelmisto2_Projekti",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nikit\PycharmProjects\Ohjelmisto-2.-Python-2\JavaScript_1" />
@@ -135,7 +137,7 @@
       <workItem from="1711035210829" duration="38059000" />
       <workItem from="1712644628929" duration="35128000" />
       <workItem from="1714949453124" duration="1319000" />
-      <workItem from="1715273985826" duration="12233000" />
+      <workItem from="1715273985826" duration="17881000" />
     </task>
     <task id="LOCAL-00001" summary="Moduulin 9 tehtävät tehty, osa hieman yli tehtävänannon.">
       <option name="closed" value="true" />
@@ -233,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715275524042</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="10 Moduuli_10_teht_4.py tappelee vastaan huolella, wtf is going on with it.. ???">
+      <option name="closed" value="true" />
+      <created>1715290729716</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715290729716</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,12 +258,13 @@
     <MESSAGE value="Moduuli 10 jatkoa ym." />
     <MESSAGE value="Java and html files" />
     <MESSAGE value="Tallennus" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tallennus" />
+    <MESSAGE value="10 Moduuli_10_teht_4.py tappelee vastaan huolella, wtf is going on with it.. ???" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 Moduuli_10_teht_4.py tappelee vastaan huolella, wtf is going on with it.. ???" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_9_teht_3.coverage" NAME="Moduuli_9_teht_3 Coverage Results" MODIFIED="1711103565907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_10_teht_3.coverage" NAME="Moduuli_10_teht_3 Coverage Results" MODIFIED="1712934763652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10" />
-    <SUITE FILE_PATH="coverage/Ohjelmisto_2_Python_2$Moduuli_10_teht_4.coverage" NAME="Moduuli_10_teht_4 Coverage Results" MODIFIED="1715287465904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli_10" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto_2_Python_2$Moduuli_10_teht_4.coverage" NAME="Moduuli_10_teht_4 Coverage Results" MODIFIED="1715290588981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli_10" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_9_teht_4.coverage" NAME="Moduuli_9_teht_4 Coverage Results" MODIFIED="1714127858697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_10_teht_4.coverage" NAME="Moduuli_10_teht_4 Coverage Results" MODIFIED="1714127852067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus__tunti_4_rajapinnat.coverage" NAME="Tuntiharjoitus_ tunti_4_rajapinnat Coverage Results" MODIFIED="1711442964134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Tuntitehtävät" />
@@ -261,6 +272,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus_tunti_3_periytyminen.coverage" NAME="Tuntiharjoitus_tunti_3_periytyminen Coverage Results" MODIFIED="1711112137793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Tuntitehtävät" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_10_teht_1.coverage" NAME="Moduuli_10_teht_1 Coverage Results" MODIFIED="1712679648904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_10_teht_2.coverage" NAME="Moduuli_10_teht_2 Coverage Results" MODIFIED="1712931120870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_10" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto_2_Python_2$Moduuli_11_teht_1.coverage" NAME="Moduuli_11_teht_1 Coverage Results" MODIFIED="1715524798090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli_11" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Tuntiharjoitus_tunti_3_assosiaatio.coverage" NAME="Tuntiharjoitus_tunti_3_assosiaatio Coverage Results" MODIFIED="1711110435413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9/Tuntitehtävät" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_1_teht_1.coverage" NAME="Moduuli_1_teht_1 Coverage Results" MODIFIED="1711039883656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_1" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2__Python_2_$Moduuli_9_teht_2.coverage" NAME="Moduuli_9_teht_2 Coverage Results" MODIFIED="1711046267192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ohjelmisto-2.-Python-2/Moduuli_9" />
