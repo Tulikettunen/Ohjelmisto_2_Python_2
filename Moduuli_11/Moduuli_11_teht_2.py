@@ -7,6 +7,8 @@ kapasiteettinsa. Kirjoita pääohjelma, jossa luot yhden sähköauton (ABC-15, 1
 polttomoottoriauton (ACD-123, 165 km/h, 32.3 l). Aseta kummallekin autolle haluamasi nopeus, käske autoja ajamaan
 kolmen tunnin verran ja tulosta autojen matkamittarilukemat.
 """
+import random
+
 
 class Car:
     def __init__(self, rek_tunnus, top_speed):
@@ -18,11 +20,11 @@ class Car:
     def drive(self):
         self.speed_now = random.randint(0, self.top_speed)
         travel_time = int(input("How long do you travel? \n>"))
-        auto.distance += self.speed_now * travel_time
+        self.distance += self.speed_now * travel_time
 
     def info_print(self):
         print(f"________________________________________\n"
-              f"Register plade: {self.rek_tunnus},\n roadometer count: {self.distance} km. ")
+              f"Car with Licence plate {self.rek_tunnus} roadometer count is: {self.distance} km. ")
 
 
 
@@ -33,7 +35,7 @@ class Electric(Car):
 
     def info_print(self):
         super().info_print()
-        print(f"Other information: \nBattery capacity: {self.battery_capacity}, ")
+        print(f"Other information: \nBattery capacity: {self.battery_capacity} kWh.\n ")
 
 
 
@@ -44,5 +46,16 @@ class Fuel(Car):
 
     def info_print(self):
         super().info_print()
-        print(f"Other information: \n fuel runnin car, sixe in littres {self.gas_tank}
+        print(f"Other information: \nFuel car, tank size: {self.gas_tank}l. \n")
+
+
+
+e_car_1 = Electric("ABC-15", 180, 52.5)
+f_car_1 = Fuel("ACD-123", 165, 32.3)
+
+e_car_1.drive()
+e_car_1.info_print()
+f_car_1.drive()
+f_car_1.info_print()
+
 
