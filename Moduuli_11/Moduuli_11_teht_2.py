@@ -44,5 +44,5 @@ class Fuel(Car):
 
     def info_print(self):
         super().info_print()
-        print(f"Other information:
+        print(f"Other information: \n fuel runnin car, sixe in littres {self.gas_tank}
 
